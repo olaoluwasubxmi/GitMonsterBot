@@ -1,0 +1,24 @@
+{
+  "name": "gitmonster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subxmi/GitMonsterBot.git"
+  },
+  "author": "subxmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subxmi/GitMonsterBot/issues"
+  },
+  "homepage": "https://github.com/subxmi/GitMonsterBot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.2",
+    "simple-git": "^3.6.0"
+  }
+}
